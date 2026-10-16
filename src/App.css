@@ -10,7 +10,7 @@
 }
 
 .eyebrow {
-  color: #0785a8;
+  color: #13a277;
   font-weight: 800;
   letter-spacing: 3px;
   font-size: 14px;
@@ -19,7 +19,7 @@
 .page-header h1 {
   margin: 8px 0;
   font-size: clamp(30px, 4vw, 46px);
-  color: #111827;
+  color: #510339;
 }
 
 .dashboard {
@@ -29,8 +29,8 @@
 
 .task-card {
   padding: 24px;
-  background: #ffffff;
-  border: 1px solid #dce3eb;
+  background: #d6a7c4;
+  border: 1px solid #a74d95;
   border-radius: 20px;
   box-shadow: 0 10px 22px #14243a14;
 }
@@ -38,7 +38,7 @@
 .task-card h2,
 .info-panel h2 {
   margin: 0 0 16px;
-  color: #182334;
+  color: #690c69;
   font-size: 23px;
 }
 
@@ -52,7 +52,7 @@
   flex: 1;
   min-width: 0;
   padding: 12px;
-  border: 1.5px solid #078db9;
+  border: 1.5px solid #e78be4;
   border-radius: 8px;
   font-size: 16px;
 }
@@ -66,13 +66,13 @@ button {
   border: 0;
   border-radius: 8px;
   padding: 10px 17px;
-  background: #087fa3;
+  background: #a3087a;
   color: white;
   font-weight: 700;
 }
 
 .todo-form button:hover {
-  background: #066783;
+  background: #83063e;
 }
 
 .filter-bar {
@@ -110,7 +110,7 @@ button {
   align-items: center;
   gap: 12px;
   padding: 12px;
-  background: #f3f6f9;
+  background: #f5f3f4;
   border-radius: 9px;
 }
 
@@ -161,7 +161,7 @@ button {
 }
 
 .component-tree {
-  background: #111c30;
+  background: #5c89db;
   color: #d8e1ee;
   border-radius: 14px;
   padding: 24px;
